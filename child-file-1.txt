@@ -1,1 +1,2 @@
-
+shared child-from-1 : i change it from parent
+i add a line from the child .
