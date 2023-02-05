@@ -1,2 +1,5 @@
 shared child-from-1 : i change it from parent
 i add a line from the child .
+----------------------------------
+
+2- add a line from the parant to the child  .
